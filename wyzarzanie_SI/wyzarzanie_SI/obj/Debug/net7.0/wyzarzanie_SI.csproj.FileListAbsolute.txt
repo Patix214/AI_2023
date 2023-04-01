@@ -1,0 +1,15 @@
+C:\PROJEKTY\wyzarzanie_SI\wyzarzanie_SI\obj\Debug\net7.0\wyzarzanie_SI.csproj.AssemblyReference.cache
+C:\PROJEKTY\wyzarzanie_SI\wyzarzanie_SI\obj\Debug\net7.0\wyzarzanie_SI.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJEKTY\wyzarzanie_SI\wyzarzanie_SI\obj\Debug\net7.0\wyzarzanie_SI.AssemblyInfoInputs.cache
+C:\PROJEKTY\wyzarzanie_SI\wyzarzanie_SI\obj\Debug\net7.0\wyzarzanie_SI.AssemblyInfo.cs
+C:\PROJEKTY\wyzarzanie_SI\wyzarzanie_SI\obj\Debug\net7.0\wyzarzanie_SI.csproj.CoreCompileInputs.cache
+C:\PROJEKTY\wyzarzanie_SI\wyzarzanie_SI\bin\Debug\net7.0\wyzarzanie_SI.exe
+C:\PROJEKTY\wyzarzanie_SI\wyzarzanie_SI\bin\Debug\net7.0\wyzarzanie_SI.deps.json
+C:\PROJEKTY\wyzarzanie_SI\wyzarzanie_SI\bin\Debug\net7.0\wyzarzanie_SI.runtimeconfig.json
+C:\PROJEKTY\wyzarzanie_SI\wyzarzanie_SI\bin\Debug\net7.0\wyzarzanie_SI.dll
+C:\PROJEKTY\wyzarzanie_SI\wyzarzanie_SI\bin\Debug\net7.0\wyzarzanie_SI.pdb
+C:\PROJEKTY\wyzarzanie_SI\wyzarzanie_SI\obj\Debug\net7.0\wyzarzanie_SI.dll
+C:\PROJEKTY\wyzarzanie_SI\wyzarzanie_SI\obj\Debug\net7.0\refint\wyzarzanie_SI.dll
+C:\PROJEKTY\wyzarzanie_SI\wyzarzanie_SI\obj\Debug\net7.0\wyzarzanie_SI.pdb
+C:\PROJEKTY\wyzarzanie_SI\wyzarzanie_SI\obj\Debug\net7.0\wyzarzanie_SI.genruntimeconfig.cache
+C:\PROJEKTY\wyzarzanie_SI\wyzarzanie_SI\obj\Debug\net7.0\ref\wyzarzanie_SI.dll

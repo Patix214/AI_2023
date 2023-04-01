@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "wyzarzanie_SI/1.0.0": {
+        "runtime": {
+          "wyzarzanie_SI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "wyzarzanie_SI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
