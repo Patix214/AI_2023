@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Pliki_uzytkowe\\Projects\\Harmonogram_Wyzarzanie\\Harmonogram_Wyzarzanie.csproj",
+      "projectUniqueName": "D:\\Pliki_uzytkowe\\Projects\\GitHub\\AI_2023\\Harmonogram_Wyzarzanie\\Harmonogram_Wyzarzanie.csproj",
       "projectName": "Harmonogram_Wyzarzanie",
-      "projectPath": "D:\\Pliki_uzytkowe\\Projects\\Harmonogram_Wyzarzanie\\Harmonogram_Wyzarzanie.csproj",
+      "projectPath": "D:\\Pliki_uzytkowe\\Projects\\GitHub\\AI_2023\\Harmonogram_Wyzarzanie\\Harmonogram_Wyzarzanie.csproj",
       "packagesPath": "C:\\Users\\patry\\.nuget\\packages\\",
-      "outputPath": "D:\\Pliki_uzytkowe\\Projects\\Harmonogram_Wyzarzanie\\obj\\",
+      "outputPath": "D:\\Pliki_uzytkowe\\Projects\\GitHub\\AI_2023\\Harmonogram_Wyzarzanie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Programy\\Microsoft\\Visual Studio\\Shared\\NuGetPackages"

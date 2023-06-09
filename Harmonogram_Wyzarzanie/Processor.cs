@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Harmonogram_Wyzarzanie
 {
@@ -10,8 +9,8 @@ namespace Harmonogram_Wyzarzanie
     {
         // lista id zadan skonczonych (dla wszystkich procesorow w ramach
         // tworzenia jednego harmonogramu)
-        public static List<int> processorListFinishID = new List<int>();
-
+        public static List<int> processor_list_finish_Id = new();
+        
         // id procesora
         public int Id { get; set; } = 0;
 
@@ -19,7 +18,7 @@ namespace Harmonogram_Wyzarzanie
         public int Time { get; set; } = 0;
 
         // zadania na procesorze
-        public List<Job> jobs = new List<Job>();
+        public List<Job> jobs = new();
 
         // konstruktor procesora
         public Processor(int id)
@@ -34,14 +33,14 @@ namespace Harmonogram_Wyzarzanie
         {
             if (jobs.Count > 0)
             {
-                job.Poprzednie_Zadanie = jobs.Last();
-                jobs.Last().Nastepne_Zadanie = job;
+                job.Previous_job = jobs.Last();
+                jobs.Last().Next_job = job;
             }
 
             jobs.Add(job);
             // gdy zadanie jest dodane, jest oznaczone (dodane do listy) jako zakonczone,
             // czyli rozpatrzone w harmonogramie
-            processorListFinishID.Add(job.Id);
+            processor_list_finish_Id.Add(job.Id);
             // do czasu procesora, dodawany jest czas zadania
             Time += job.Duration;
         }
@@ -50,19 +49,36 @@ namespace Harmonogram_Wyzarzanie
         public void Wyswietl_dane_procesora()
         {
             Console.WriteLine("---------------------------------------------------------------------------");
-            Console.WriteLine("Processor " + Id + "    " + Wyswietl_czas_procesora());
+            Console.WriteLine("Processor " + Id + "    " + Show_processor_time());
             Console.WriteLine("---------------------------------------------------------------------------");
             foreach (Job job in jobs)
             {
                 job.Wyswietl_dane_zadania();
-            }
+            }    
             Console.WriteLine();
         }
 
         // wyswietlanie czasu pracy procesora
-        public String Wyswietl_czas_procesora()
+        public String Show_processor_time()
         {
-            return "Czas pracy procesora: " + Time + " s";
+            return "Czas pracy procesora: " + Time + " s    " + "Czas bezczynnosci procesora: " + Get_processor_idle_time() + " s";
+        }
+
+        // daje calkowity czas bezczynnosci procesora
+        // pobiera czas bezczynnosci procesora, czyli czas wszystkich przerw
+        // pomiedzy zadaniami na procesorze
+        public double Get_processor_idle_time()
+        {
+            double i = 0;
+
+            foreach (Job job in jobs)
+            {
+                // jezeli Id == -1, oznacza to, ze zadanie jest tak naprawde przerwa,
+                // pomiedzy zadaniami, poniewaz -1 jako niedostepne Id oznacza taka beczynnosc
+                if (job.Id == -1) i += job.Duration;
+            }
+
+            return i;
         }
 
     }

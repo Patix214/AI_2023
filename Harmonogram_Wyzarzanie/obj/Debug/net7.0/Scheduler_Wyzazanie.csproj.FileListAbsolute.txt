@@ -1,0 +1,15 @@
+D:\Pliki_uzytkowe\Projects\Scheduler_Wyzazanie\obj\Debug\net7.0\Scheduler_Wyzazanie.csproj.AssemblyReference.cache
+D:\Pliki_uzytkowe\Projects\Scheduler_Wyzazanie\obj\Debug\net7.0\Scheduler_Wyzazanie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pliki_uzytkowe\Projects\Scheduler_Wyzazanie\obj\Debug\net7.0\Scheduler_Wyzazanie.AssemblyInfoInputs.cache
+D:\Pliki_uzytkowe\Projects\Scheduler_Wyzazanie\obj\Debug\net7.0\Scheduler_Wyzazanie.AssemblyInfo.cs
+D:\Pliki_uzytkowe\Projects\Scheduler_Wyzazanie\obj\Debug\net7.0\Scheduler_Wyzazanie.csproj.CoreCompileInputs.cache
+D:\Pliki_uzytkowe\Projects\Scheduler_Wyzazanie\bin\Debug\net7.0\Scheduler_Wyzazanie.exe
+D:\Pliki_uzytkowe\Projects\Scheduler_Wyzazanie\bin\Debug\net7.0\Scheduler_Wyzazanie.deps.json
+D:\Pliki_uzytkowe\Projects\Scheduler_Wyzazanie\bin\Debug\net7.0\Scheduler_Wyzazanie.runtimeconfig.json
+D:\Pliki_uzytkowe\Projects\Scheduler_Wyzazanie\bin\Debug\net7.0\Scheduler_Wyzazanie.dll
+D:\Pliki_uzytkowe\Projects\Scheduler_Wyzazanie\bin\Debug\net7.0\Scheduler_Wyzazanie.pdb
+D:\Pliki_uzytkowe\Projects\Scheduler_Wyzazanie\obj\Debug\net7.0\Scheduler_Wyzazanie.dll
+D:\Pliki_uzytkowe\Projects\Scheduler_Wyzazanie\obj\Debug\net7.0\refint\Scheduler_Wyzazanie.dll
+D:\Pliki_uzytkowe\Projects\Scheduler_Wyzazanie\obj\Debug\net7.0\Scheduler_Wyzazanie.pdb
+D:\Pliki_uzytkowe\Projects\Scheduler_Wyzazanie\obj\Debug\net7.0\Scheduler_Wyzazanie.genruntimeconfig.cache
+D:\Pliki_uzytkowe\Projects\Scheduler_Wyzazanie\obj\Debug\net7.0\ref\Scheduler_Wyzazanie.dll
