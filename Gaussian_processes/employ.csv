@@ -1,0 +1,717 @@
+week_end,indicator,high_industry,value
+05/05/2019,Number of Paid Jobs - 6 days,A Primary,67670
+05/05/2019,Number of Paid Jobs - 6 days,B Goods Producing,332730
+05/05/2019,Number of Paid Jobs - 6 days,C Services,1026630
+05/05/2019,Number of Paid Jobs - 6 days,Total,1438160
+05/05/2019,Number of Paid Jobs - 13 days,A Primary,87870
+05/05/2019,Number of Paid Jobs - 13 days,B Goods Producing,391050
+05/05/2019,Number of Paid Jobs - 13 days,C Services,1487360
+05/05/2019,Number of Paid Jobs - 13 days,Total,1982770
+05/05/2019,Number of Paid Jobs - 27 days,A Primary,93750
+05/05/2019,Number of Paid Jobs - 27 days,B Goods Producing,403260
+05/05/2019,Number of Paid Jobs - 27 days,C Services,1562050
+05/05/2019,Number of Paid Jobs - 27 days,Total,2077690
+12/05/2019,Number of Paid Jobs - 6 days,A Primary,62170
+12/05/2019,Number of Paid Jobs - 6 days,B Goods Producing,335420
+12/05/2019,Number of Paid Jobs - 6 days,C Services,1135430
+12/05/2019,Number of Paid Jobs - 6 days,Total,1542750
+12/05/2019,Number of Paid Jobs - 13 days,A Primary,81800
+12/05/2019,Number of Paid Jobs - 13 days,B Goods Producing,383840
+12/05/2019,Number of Paid Jobs - 13 days,C Services,1436730
+12/05/2019,Number of Paid Jobs - 13 days,Total,1916390
+12/05/2019,Number of Paid Jobs - 27 days,A Primary,88730
+12/05/2019,Number of Paid Jobs - 27 days,B Goods Producing,396840
+12/05/2019,Number of Paid Jobs - 27 days,C Services,1555470
+12/05/2019,Number of Paid Jobs - 27 days,Total,2057780
+19/05/2019,Number of Paid Jobs - 6 days,A Primary,64030
+19/05/2019,Number of Paid Jobs - 6 days,B Goods Producing,333960
+19/05/2019,Number of Paid Jobs - 6 days,C Services,1141830
+19/05/2019,Number of Paid Jobs - 6 days,Total,1550180
+19/05/2019,Number of Paid Jobs - 13 days,A Primary,84480
+19/05/2019,Number of Paid Jobs - 13 days,B Goods Producing,387020
+19/05/2019,Number of Paid Jobs - 13 days,C Services,1479630
+19/05/2019,Number of Paid Jobs - 13 days,Total,1966650
+19/05/2019,Number of Paid Jobs - 27 days,A Primary,90520
+19/05/2019,Number of Paid Jobs - 27 days,B Goods Producing,399380
+19/05/2019,Number of Paid Jobs - 27 days,C Services,1562440
+19/05/2019,Number of Paid Jobs - 27 days,Total,2070140
+26/05/2019,Number of Paid Jobs - 6 days,A Primary,67310
+26/05/2019,Number of Paid Jobs - 6 days,B Goods Producing,351740
+26/05/2019,Number of Paid Jobs - 6 days,C Services,1200830
+26/05/2019,Number of Paid Jobs - 6 days,Total,1631210
+26/05/2019,Number of Paid Jobs - 13 days,A Primary,84800
+26/05/2019,Number of Paid Jobs - 13 days,B Goods Producing,388760
+26/05/2019,Number of Paid Jobs - 13 days,C Services,1498350
+26/05/2019,Number of Paid Jobs - 13 days,Total,1987800
+26/05/2019,Number of Paid Jobs - 27 days,A Primary,91700
+26/05/2019,Number of Paid Jobs - 27 days,B Goods Producing,402070
+26/05/2019,Number of Paid Jobs - 27 days,C Services,1592470
+26/05/2019,Number of Paid Jobs - 27 days,Total,2105540
+02/06/2019,Number of Paid Jobs - 6 days,A Primary,65680
+02/06/2019,Number of Paid Jobs - 6 days,B Goods Producing,343550
+02/06/2019,Number of Paid Jobs - 6 days,C Services,1194110
+02/06/2019,Number of Paid Jobs - 6 days,Total,1615770
+02/06/2019,Number of Paid Jobs - 13 days,A Primary,85040
+02/06/2019,Number of Paid Jobs - 13 days,B Goods Producing,392300
+02/06/2019,Number of Paid Jobs - 13 days,C Services,1524200
+02/06/2019,Number of Paid Jobs - 13 days,Total,2019650
+02/06/2019,Number of Paid Jobs - 27 days,A Primary,91150
+02/06/2019,Number of Paid Jobs - 27 days,B Goods Producing,404620
+02/06/2019,Number of Paid Jobs - 27 days,C Services,1599130
+02/06/2019,Number of Paid Jobs - 27 days,Total,2116310
+09/06/2019,Number of Paid Jobs - 6 days,A Primary,59070
+09/06/2019,Number of Paid Jobs - 6 days,B Goods Producing,319150
+09/06/2019,Number of Paid Jobs - 6 days,C Services,1092910
+09/06/2019,Number of Paid Jobs - 6 days,Total,1482630
+09/06/2019,Number of Paid Jobs - 13 days,A Primary,79760
+09/06/2019,Number of Paid Jobs - 13 days,B Goods Producing,385430
+09/06/2019,Number of Paid Jobs - 13 days,C Services,1487190
+09/06/2019,Number of Paid Jobs - 13 days,Total,1969960
+09/06/2019,Number of Paid Jobs - 27 days,A Primary,86480
+09/06/2019,Number of Paid Jobs - 27 days,B Goods Producing,399920
+09/06/2019,Number of Paid Jobs - 27 days,C Services,1578360
+09/06/2019,Number of Paid Jobs - 27 days,Total,2086090
+16/06/2019,Number of Paid Jobs - 6 days,A Primary,62600
+16/06/2019,Number of Paid Jobs - 6 days,B Goods Producing,338850
+16/06/2019,Number of Paid Jobs - 6 days,C Services,1211930
+16/06/2019,Number of Paid Jobs - 6 days,Total,1626400
+16/06/2019,Number of Paid Jobs - 13 days,A Primary,80030
+16/06/2019,Number of Paid Jobs - 13 days,B Goods Producing,388210
+16/06/2019,Number of Paid Jobs - 13 days,C Services,1517250
+16/06/2019,Number of Paid Jobs - 13 days,Total,2005680
+16/06/2019,Number of Paid Jobs - 27 days,A Primary,87080
+16/06/2019,Number of Paid Jobs - 27 days,B Goods Producing,399510
+16/06/2019,Number of Paid Jobs - 27 days,C Services,1583510
+16/06/2019,Number of Paid Jobs - 27 days,Total,2093440
+23/06/2019,Number of Paid Jobs - 6 days,A Primary,62520
+23/06/2019,Number of Paid Jobs - 6 days,B Goods Producing,346920
+23/06/2019,Number of Paid Jobs - 6 days,C Services,1176980
+23/06/2019,Number of Paid Jobs - 6 days,Total,1601960
+23/06/2019,Number of Paid Jobs - 13 days,A Primary,83410
+23/06/2019,Number of Paid Jobs - 13 days,B Goods Producing,390610
+23/06/2019,Number of Paid Jobs - 13 days,C Services,1513040
+23/06/2019,Number of Paid Jobs - 13 days,Total,2008290
+23/06/2019,Number of Paid Jobs - 27 days,A Primary,87630
+23/06/2019,Number of Paid Jobs - 27 days,B Goods Producing,400980
+23/06/2019,Number of Paid Jobs - 27 days,C Services,1590330
+23/06/2019,Number of Paid Jobs - 27 days,Total,2103890
+30/06/2019,Number of Paid Jobs - 6 days,A Primary,66420
+30/06/2019,Number of Paid Jobs - 6 days,B Goods Producing,343090
+30/06/2019,Number of Paid Jobs - 6 days,C Services,1215660
+30/06/2019,Number of Paid Jobs - 6 days,Total,1640830
+30/06/2019,Number of Paid Jobs - 13 days,A Primary,83520
+30/06/2019,Number of Paid Jobs - 13 days,B Goods Producing,390520
+30/06/2019,Number of Paid Jobs - 13 days,C Services,1507350
+30/06/2019,Number of Paid Jobs - 13 days,Total,2006160
+30/06/2019,Number of Paid Jobs - 27 days,A Primary,88290
+30/06/2019,Number of Paid Jobs - 27 days,B Goods Producing,400060
+30/06/2019,Number of Paid Jobs - 27 days,C Services,1586200
+30/06/2019,Number of Paid Jobs - 27 days,Total,2101300
+07/07/2019,Number of Paid Jobs - 6 days,A Primary,58100
+07/07/2019,Number of Paid Jobs - 6 days,B Goods Producing,312550
+07/07/2019,Number of Paid Jobs - 6 days,C Services,1089840
+07/07/2019,Number of Paid Jobs - 6 days,Total,1474190
+07/07/2019,Number of Paid Jobs - 13 days,A Primary,78340
+07/07/2019,Number of Paid Jobs - 13 days,B Goods Producing,379290
+07/07/2019,Number of Paid Jobs - 13 days,C Services,1472420
+07/07/2019,Number of Paid Jobs - 13 days,Total,1949240
+07/07/2019,Number of Paid Jobs - 27 days,A Primary,85740
+07/07/2019,Number of Paid Jobs - 27 days,B Goods Producing,396500
+07/07/2019,Number of Paid Jobs - 27 days,C Services,1572330
+07/07/2019,Number of Paid Jobs - 27 days,Total,2076690
+14/07/2019,Number of Paid Jobs - 6 days,A Primary,61570
+14/07/2019,Number of Paid Jobs - 6 days,B Goods Producing,334100
+14/07/2019,Number of Paid Jobs - 6 days,C Services,1173570
+14/07/2019,Number of Paid Jobs - 6 days,Total,1584690
+14/07/2019,Number of Paid Jobs - 13 days,A Primary,81430
+14/07/2019,Number of Paid Jobs - 13 days,B Goods Producing,385500
+14/07/2019,Number of Paid Jobs - 13 days,C Services,1473960
+14/07/2019,Number of Paid Jobs - 13 days,Total,1962280
+14/07/2019,Number of Paid Jobs - 27 days,A Primary,88200
+14/07/2019,Number of Paid Jobs - 27 days,B Goods Producing,399040
+14/07/2019,Number of Paid Jobs - 27 days,C Services,1574440
+14/07/2019,Number of Paid Jobs - 27 days,Total,2085500
+21/07/2019,Number of Paid Jobs - 6 days,A Primary,63610
+21/07/2019,Number of Paid Jobs - 6 days,B Goods Producing,346970
+21/07/2019,Number of Paid Jobs - 6 days,C Services,1179730
+21/07/2019,Number of Paid Jobs - 6 days,Total,1608950
+21/07/2019,Number of Paid Jobs - 13 days,A Primary,83200
+21/07/2019,Number of Paid Jobs - 13 days,B Goods Producing,389310
+21/07/2019,Number of Paid Jobs - 13 days,C Services,1525850
+21/07/2019,Number of Paid Jobs - 13 days,Total,2022530
+21/07/2019,Number of Paid Jobs - 27 days,A Primary,88100
+21/07/2019,Number of Paid Jobs - 27 days,B Goods Producing,400380
+21/07/2019,Number of Paid Jobs - 27 days,C Services,1594130
+21/07/2019,Number of Paid Jobs - 27 days,Total,2109350
+28/07/2019,Number of Paid Jobs - 6 days,A Primary,64650
+28/07/2019,Number of Paid Jobs - 6 days,B Goods Producing,343720
+28/07/2019,Number of Paid Jobs - 6 days,C Services,1234440
+28/07/2019,Number of Paid Jobs - 6 days,Total,1663260
+28/07/2019,Number of Paid Jobs - 13 days,A Primary,84940
+28/07/2019,Number of Paid Jobs - 13 days,B Goods Producing,391840
+28/07/2019,Number of Paid Jobs - 13 days,C Services,1541450
+28/07/2019,Number of Paid Jobs - 13 days,Total,2044870
+28/07/2019,Number of Paid Jobs - 27 days,A Primary,90110
+28/07/2019,Number of Paid Jobs - 27 days,B Goods Producing,401120
+28/07/2019,Number of Paid Jobs - 27 days,C Services,1605680
+28/07/2019,Number of Paid Jobs - 27 days,Total,2127260
+04/08/2019,Number of Paid Jobs - 6 days,A Primary,66390
+04/08/2019,Number of Paid Jobs - 6 days,B Goods Producing,354270
+04/08/2019,Number of Paid Jobs - 6 days,C Services,1219990
+04/08/2019,Number of Paid Jobs - 6 days,Total,1662940
+04/08/2019,Number of Paid Jobs - 13 days,A Primary,84930
+04/08/2019,Number of Paid Jobs - 13 days,B Goods Producing,393780
+04/08/2019,Number of Paid Jobs - 13 days,C Services,1553250
+04/08/2019,Number of Paid Jobs - 13 days,Total,2060990
+04/08/2019,Number of Paid Jobs - 27 days,A Primary,90380
+04/08/2019,Number of Paid Jobs - 27 days,B Goods Producing,402350
+04/08/2019,Number of Paid Jobs - 27 days,C Services,1602390
+04/08/2019,Number of Paid Jobs - 27 days,Total,2127860
+11/08/2019,Number of Paid Jobs - 6 days,A Primary,62060
+11/08/2019,Number of Paid Jobs - 6 days,B Goods Producing,325350
+11/08/2019,Number of Paid Jobs - 6 days,C Services,1183570
+11/08/2019,Number of Paid Jobs - 6 days,Total,1589630
+11/08/2019,Number of Paid Jobs - 13 days,A Primary,82590
+11/08/2019,Number of Paid Jobs - 13 days,B Goods Producing,386590
+11/08/2019,Number of Paid Jobs - 13 days,C Services,1491470
+11/08/2019,Number of Paid Jobs - 13 days,Total,1988310
+11/08/2019,Number of Paid Jobs - 27 days,A Primary,89400
+11/08/2019,Number of Paid Jobs - 27 days,B Goods Producing,399240
+11/08/2019,Number of Paid Jobs - 27 days,C Services,1591940
+11/08/2019,Number of Paid Jobs - 27 days,Total,2111260
+18/08/2019,Number of Paid Jobs - 6 days,A Primary,63940
+18/08/2019,Number of Paid Jobs - 6 days,B Goods Producing,349020
+18/08/2019,Number of Paid Jobs - 6 days,C Services,1191900
+18/08/2019,Number of Paid Jobs - 6 days,Total,1627390
+18/08/2019,Number of Paid Jobs - 13 days,A Primary,83990
+18/08/2019,Number of Paid Jobs - 13 days,B Goods Producing,389240
+18/08/2019,Number of Paid Jobs - 13 days,C Services,1526960
+18/08/2019,Number of Paid Jobs - 13 days,Total,2028990
+18/08/2019,Number of Paid Jobs - 27 days,A Primary,89350
+18/08/2019,Number of Paid Jobs - 27 days,B Goods Producing,399010
+18/08/2019,Number of Paid Jobs - 27 days,C Services,1608320
+18/08/2019,Number of Paid Jobs - 27 days,Total,2128220
+25/08/2019,Number of Paid Jobs - 6 days,A Primary,67780
+25/08/2019,Number of Paid Jobs - 6 days,B Goods Producing,345890
+25/08/2019,Number of Paid Jobs - 6 days,C Services,1251460
+25/08/2019,Number of Paid Jobs - 6 days,Total,1688210
+25/08/2019,Number of Paid Jobs - 13 days,A Primary,87090
+25/08/2019,Number of Paid Jobs - 13 days,B Goods Producing,393270
+25/08/2019,Number of Paid Jobs - 13 days,C Services,1560930
+25/08/2019,Number of Paid Jobs - 13 days,Total,2071090
+25/08/2019,Number of Paid Jobs - 27 days,A Primary,91200
+25/08/2019,Number of Paid Jobs - 27 days,B Goods Producing,400140
+25/08/2019,Number of Paid Jobs - 27 days,C Services,1609240
+25/08/2019,Number of Paid Jobs - 27 days,Total,2132180
+01/09/2019,Number of Paid Jobs - 6 days,A Primary,67580
+01/09/2019,Number of Paid Jobs - 6 days,B Goods Producing,355780
+01/09/2019,Number of Paid Jobs - 6 days,C Services,1240750
+01/09/2019,Number of Paid Jobs - 6 days,Total,1690220
+01/09/2019,Number of Paid Jobs - 13 days,A Primary,86580
+01/09/2019,Number of Paid Jobs - 13 days,B Goods Producing,394090
+01/09/2019,Number of Paid Jobs - 13 days,C Services,1543850
+01/09/2019,Number of Paid Jobs - 13 days,Total,2056410
+01/09/2019,Number of Paid Jobs - 27 days,A Primary,91790
+01/09/2019,Number of Paid Jobs - 27 days,B Goods Producing,402190
+01/09/2019,Number of Paid Jobs - 27 days,C Services,1604150
+01/09/2019,Number of Paid Jobs - 27 days,Total,2132270
+08/09/2019,Number of Paid Jobs - 6 days,A Primary,61930
+08/09/2019,Number of Paid Jobs - 6 days,B Goods Producing,314970
+08/09/2019,Number of Paid Jobs - 6 days,C Services,1142730
+08/09/2019,Number of Paid Jobs - 6 days,Total,1541590
+08/09/2019,Number of Paid Jobs - 13 days,A Primary,83880
+08/09/2019,Number of Paid Jobs - 13 days,B Goods Producing,383040
+08/09/2019,Number of Paid Jobs - 13 days,C Services,1485490
+08/09/2019,Number of Paid Jobs - 13 days,Total,1979940
+08/09/2019,Number of Paid Jobs - 27 days,A Primary,91140
+08/09/2019,Number of Paid Jobs - 27 days,B Goods Producing,398530
+08/09/2019,Number of Paid Jobs - 27 days,C Services,1566710
+08/09/2019,Number of Paid Jobs - 27 days,Total,2086820
+15/09/2019,Number of Paid Jobs - 6 days,A Primary,65650
+15/09/2019,Number of Paid Jobs - 6 days,B Goods Producing,348740
+15/09/2019,Number of Paid Jobs - 6 days,C Services,1188740
+15/09/2019,Number of Paid Jobs - 6 days,Total,1623780
+15/09/2019,Number of Paid Jobs - 13 days,A Primary,85340
+15/09/2019,Number of Paid Jobs - 13 days,B Goods Producing,388970
+15/09/2019,Number of Paid Jobs - 13 days,C Services,1479990
+15/09/2019,Number of Paid Jobs - 13 days,Total,1978650
+15/09/2019,Number of Paid Jobs - 27 days,A Primary,92260
+15/09/2019,Number of Paid Jobs - 27 days,B Goods Producing,399820
+15/09/2019,Number of Paid Jobs - 27 days,C Services,1582570
+15/09/2019,Number of Paid Jobs - 27 days,Total,2104200
+22/09/2019,Number of Paid Jobs - 6 days,A Primary,67090
+22/09/2019,Number of Paid Jobs - 6 days,B Goods Producing,342960
+22/09/2019,Number of Paid Jobs - 6 days,C Services,1196880
+22/09/2019,Number of Paid Jobs - 6 days,Total,1625890
+22/09/2019,Number of Paid Jobs - 13 days,A Primary,89670
+22/09/2019,Number of Paid Jobs - 13 days,B Goods Producing,394850
+22/09/2019,Number of Paid Jobs - 13 days,C Services,1530090
+22/09/2019,Number of Paid Jobs - 13 days,Total,2042570
+22/09/2019,Number of Paid Jobs - 27 days,A Primary,93580
+22/09/2019,Number of Paid Jobs - 27 days,B Goods Producing,401410
+22/09/2019,Number of Paid Jobs - 27 days,C Services,1579410
+22/09/2019,Number of Paid Jobs - 27 days,Total,2104400
+29/09/2019,Number of Paid Jobs - 6 days,A Primary,68450
+29/09/2019,Number of Paid Jobs - 6 days,B Goods Producing,357670
+29/09/2019,Number of Paid Jobs - 6 days,C Services,1215000
+29/09/2019,Number of Paid Jobs - 6 days,Total,1663830
+29/09/2019,Number of Paid Jobs - 13 days,A Primary,87820
+29/09/2019,Number of Paid Jobs - 13 days,B Goods Producing,393210
+29/09/2019,Number of Paid Jobs - 13 days,C Services,1509410
+29/09/2019,Number of Paid Jobs - 13 days,Total,2019060
+29/09/2019,Number of Paid Jobs - 27 days,A Primary,92940
+29/09/2019,Number of Paid Jobs - 27 days,B Goods Producing,402750
+29/09/2019,Number of Paid Jobs - 27 days,C Services,1591330
+29/09/2019,Number of Paid Jobs - 27 days,Total,2117740
+06/10/2019,Number of Paid Jobs - 6 days,A Primary,69770
+06/10/2019,Number of Paid Jobs - 6 days,B Goods Producing,348840
+06/10/2019,Number of Paid Jobs - 6 days,C Services,1228770
+06/10/2019,Number of Paid Jobs - 6 days,Total,1672870
+06/10/2019,Number of Paid Jobs - 13 days,A Primary,90170
+06/10/2019,Number of Paid Jobs - 13 days,B Goods Producing,396870
+06/10/2019,Number of Paid Jobs - 13 days,C Services,1519880
+06/10/2019,Number of Paid Jobs - 13 days,Total,2038610
+06/10/2019,Number of Paid Jobs - 27 days,A Primary,94490
+06/10/2019,Number of Paid Jobs - 27 days,B Goods Producing,404320
+06/10/2019,Number of Paid Jobs - 27 days,C Services,1604610
+06/10/2019,Number of Paid Jobs - 27 days,Total,2136830
+13/10/2019,Number of Paid Jobs - 6 days,A Primary,66650
+13/10/2019,Number of Paid Jobs - 6 days,B Goods Producing,350150
+13/10/2019,Number of Paid Jobs - 6 days,C Services,1171370
+13/10/2019,Number of Paid Jobs - 6 days,Total,1607550
+13/10/2019,Number of Paid Jobs - 13 days,A Primary,87820
+13/10/2019,Number of Paid Jobs - 13 days,B Goods Producing,392950
+13/10/2019,Number of Paid Jobs - 13 days,C Services,1538840
+13/10/2019,Number of Paid Jobs - 13 days,Total,2043770
+13/10/2019,Number of Paid Jobs - 27 days,A Primary,94230
+13/10/2019,Number of Paid Jobs - 27 days,B Goods Producing,403230
+13/10/2019,Number of Paid Jobs - 27 days,C Services,1619640
+13/10/2019,Number of Paid Jobs - 27 days,Total,2144200
+20/10/2019,Number of Paid Jobs - 6 days,A Primary,70910
+20/10/2019,Number of Paid Jobs - 6 days,B Goods Producing,349220
+20/10/2019,Number of Paid Jobs - 6 days,C Services,1249250
+20/10/2019,Number of Paid Jobs - 6 days,Total,1686700
+20/10/2019,Number of Paid Jobs - 13 days,A Primary,92250
+20/10/2019,Number of Paid Jobs - 13 days,B Goods Producing,394510
+20/10/2019,Number of Paid Jobs - 13 days,C Services,1528020
+20/10/2019,Number of Paid Jobs - 13 days,Total,2038280
+20/10/2019,Number of Paid Jobs - 27 days,A Primary,96530
+20/10/2019,Number of Paid Jobs - 27 days,B Goods Producing,404160
+20/10/2019,Number of Paid Jobs - 27 days,C Services,1619410
+20/10/2019,Number of Paid Jobs - 27 days,Total,2150750
+27/10/2019,Number of Paid Jobs - 6 days,A Primary,71810
+27/10/2019,Number of Paid Jobs - 6 days,B Goods Producing,359860
+27/10/2019,Number of Paid Jobs - 6 days,C Services,1213540
+27/10/2019,Number of Paid Jobs - 6 days,Total,1661320
+27/10/2019,Number of Paid Jobs - 13 days,A Primary,93280
+27/10/2019,Number of Paid Jobs - 13 days,B Goods Producing,397530
+27/10/2019,Number of Paid Jobs - 13 days,C Services,1562410
+27/10/2019,Number of Paid Jobs - 13 days,Total,2074810
+27/10/2019,Number of Paid Jobs - 27 days,A Primary,98190
+27/10/2019,Number of Paid Jobs - 27 days,B Goods Producing,405560
+27/10/2019,Number of Paid Jobs - 27 days,C Services,1625190
+27/10/2019,Number of Paid Jobs - 27 days,Total,2157800
+03/11/2019,Number of Paid Jobs - 6 days,A Primary,74350
+03/11/2019,Number of Paid Jobs - 6 days,B Goods Producing,352780
+03/11/2019,Number of Paid Jobs - 6 days,C Services,1259720
+03/11/2019,Number of Paid Jobs - 6 days,Total,1704950
+03/11/2019,Number of Paid Jobs - 13 days,A Primary,95750
+03/11/2019,Number of Paid Jobs - 13 days,B Goods Producing,401260
+03/11/2019,Number of Paid Jobs - 13 days,C Services,1574540
+03/11/2019,Number of Paid Jobs - 13 days,Total,2100550
+03/11/2019,Number of Paid Jobs - 27 days,A Primary,101150
+03/11/2019,Number of Paid Jobs - 27 days,B Goods Producing,410450
+03/11/2019,Number of Paid Jobs - 27 days,C Services,1642100
+03/11/2019,Number of Paid Jobs - 27 days,Total,2185350
+10/11/2019,Number of Paid Jobs - 6 days,A Primary,70360
+10/11/2019,Number of Paid Jobs - 6 days,B Goods Producing,333660
+10/11/2019,Number of Paid Jobs - 6 days,C Services,1175030
+10/11/2019,Number of Paid Jobs - 6 days,Total,1594610
+10/11/2019,Number of Paid Jobs - 13 days,A Primary,94400
+10/11/2019,Number of Paid Jobs - 13 days,B Goods Producing,397820
+10/11/2019,Number of Paid Jobs - 13 days,C Services,1564480
+10/11/2019,Number of Paid Jobs - 13 days,Total,2077340
+10/11/2019,Number of Paid Jobs - 27 days,A Primary,102350
+10/11/2019,Number of Paid Jobs - 27 days,B Goods Producing,410850
+10/11/2019,Number of Paid Jobs - 27 days,C Services,1643100
+10/11/2019,Number of Paid Jobs - 27 days,Total,2180650
+17/11/2019,Number of Paid Jobs - 6 days,A Primary,75250
+17/11/2019,Number of Paid Jobs - 6 days,B Goods Producing,351170
+17/11/2019,Number of Paid Jobs - 6 days,C Services,1165510
+17/11/2019,Number of Paid Jobs - 6 days,Total,1608650
+17/11/2019,Number of Paid Jobs - 13 days,A Primary,98950
+17/11/2019,Number of Paid Jobs - 13 days,B Goods Producing,405300
+17/11/2019,Number of Paid Jobs - 13 days,C Services,1560820
+17/11/2019,Number of Paid Jobs - 13 days,Total,2087410
+17/11/2019,Number of Paid Jobs - 27 days,A Primary,105390
+17/11/2019,Number of Paid Jobs - 27 days,B Goods Producing,414680
+17/11/2019,Number of Paid Jobs - 27 days,C Services,1657410
+17/11/2019,Number of Paid Jobs - 27 days,Total,2202640
+24/11/2019,Number of Paid Jobs - 6 days,A Primary,78580
+24/11/2019,Number of Paid Jobs - 6 days,B Goods Producing,366760
+24/11/2019,Number of Paid Jobs - 6 days,C Services,1205310
+24/11/2019,Number of Paid Jobs - 6 days,Total,1669130
+24/11/2019,Number of Paid Jobs - 13 days,A Primary,102980
+24/11/2019,Number of Paid Jobs - 13 days,B Goods Producing,410620
+24/11/2019,Number of Paid Jobs - 13 days,C Services,1598250
+24/11/2019,Number of Paid Jobs - 13 days,Total,2135240
+24/11/2019,Number of Paid Jobs - 27 days,A Primary,109040
+24/11/2019,Number of Paid Jobs - 27 days,B Goods Producing,418750
+24/11/2019,Number of Paid Jobs - 27 days,C Services,1670780
+24/11/2019,Number of Paid Jobs - 27 days,Total,2234590
+01/12/2019,Number of Paid Jobs - 6 days,A Primary,81590
+01/12/2019,Number of Paid Jobs - 6 days,B Goods Producing,360300
+01/12/2019,Number of Paid Jobs - 6 days,C Services,1269570
+01/12/2019,Number of Paid Jobs - 6 days,Total,1728530
+01/12/2019,Number of Paid Jobs - 13 days,A Primary,106440
+01/12/2019,Number of Paid Jobs - 13 days,B Goods Producing,415400
+01/12/2019,Number of Paid Jobs - 13 days,C Services,1606790
+01/12/2019,Number of Paid Jobs - 13 days,Total,2155650
+01/12/2019,Number of Paid Jobs - 27 days,A Primary,111650
+01/12/2019,Number of Paid Jobs - 27 days,B Goods Producing,421680
+01/12/2019,Number of Paid Jobs - 27 days,C Services,1668730
+01/12/2019,Number of Paid Jobs - 27 days,Total,2239060
+08/12/2019,Number of Paid Jobs - 6 days,A Primary,76790
+08/12/2019,Number of Paid Jobs - 6 days,B Goods Producing,340470
+08/12/2019,Number of Paid Jobs - 6 days,C Services,1195150
+08/12/2019,Number of Paid Jobs - 6 days,Total,1629040
+08/12/2019,Number of Paid Jobs - 13 days,A Primary,103410
+08/12/2019,Number of Paid Jobs - 13 days,B Goods Producing,410240
+08/12/2019,Number of Paid Jobs - 13 days,C Services,1601830
+08/12/2019,Number of Paid Jobs - 13 days,Total,2150140
+08/12/2019,Number of Paid Jobs - 27 days,A Primary,108870
+08/12/2019,Number of Paid Jobs - 27 days,B Goods Producing,417100
+08/12/2019,Number of Paid Jobs - 27 days,C Services,1649590
+08/12/2019,Number of Paid Jobs - 27 days,Total,2212250
+15/12/2019,Number of Paid Jobs - 6 days,A Primary,85570
+15/12/2019,Number of Paid Jobs - 6 days,B Goods Producing,379030
+15/12/2019,Number of Paid Jobs - 6 days,C Services,1236440
+15/12/2019,Number of Paid Jobs - 6 days,Total,1731220
+15/12/2019,Number of Paid Jobs - 13 days,A Primary,106000
+15/12/2019,Number of Paid Jobs - 13 days,B Goods Producing,409770
+15/12/2019,Number of Paid Jobs - 13 days,C Services,1475730
+15/12/2019,Number of Paid Jobs - 13 days,Total,2026540
+15/12/2019,Number of Paid Jobs - 27 days,A Primary,111890
+15/12/2019,Number of Paid Jobs - 27 days,B Goods Producing,418870
+15/12/2019,Number of Paid Jobs - 27 days,C Services,1665930
+15/12/2019,Number of Paid Jobs - 27 days,Total,2233900
+22/12/2019,Number of Paid Jobs - 6 days,A Primary,82820
+22/12/2019,Number of Paid Jobs - 6 days,B Goods Producing,353410
+22/12/2019,Number of Paid Jobs - 6 days,C Services,1244050
+22/12/2019,Number of Paid Jobs - 6 days,Total,1703640
+22/12/2019,Number of Paid Jobs - 13 days,A Primary,101360
+22/12/2019,Number of Paid Jobs - 13 days,B Goods Producing,385220
+22/12/2019,Number of Paid Jobs - 13 days,C Services,1468320
+22/12/2019,Number of Paid Jobs - 13 days,Total,1982310
+22/12/2019,Number of Paid Jobs - 27 days,A Primary,111310
+22/12/2019,Number of Paid Jobs - 27 days,B Goods Producing,416150
+22/12/2019,Number of Paid Jobs - 27 days,C Services,1653850
+22/12/2019,Number of Paid Jobs - 27 days,Total,2212580
+29/12/2019,Number of Paid Jobs - 6 days,A Primary,72090
+29/12/2019,Number of Paid Jobs - 6 days,B Goods Producing,312710
+29/12/2019,Number of Paid Jobs - 6 days,C Services,1118830
+29/12/2019,Number of Paid Jobs - 6 days,Total,1516420
+29/12/2019,Number of Paid Jobs - 13 days,A Primary,97420
+29/12/2019,Number of Paid Jobs - 13 days,B Goods Producing,382100
+29/12/2019,Number of Paid Jobs - 13 days,C Services,1502430
+29/12/2019,Number of Paid Jobs - 13 days,Total,2001230
+29/12/2019,Number of Paid Jobs - 27 days,A Primary,104160
+29/12/2019,Number of Paid Jobs - 27 days,B Goods Producing,394530
+29/12/2019,Number of Paid Jobs - 27 days,C Services,1588770
+29/12/2019,Number of Paid Jobs - 27 days,Total,2124990
+05/01/2020,Number of Paid Jobs - 6 days,A Primary,77360
+05/01/2020,Number of Paid Jobs - 6 days,B Goods Producing,342800
+05/01/2020,Number of Paid Jobs - 6 days,C Services,1176840
+05/01/2020,Number of Paid Jobs - 6 days,Total,1624390
+05/01/2020,Number of Paid Jobs - 13 days,A Primary,99370
+05/01/2020,Number of Paid Jobs - 13 days,B Goods Producing,385830
+05/01/2020,Number of Paid Jobs - 13 days,C Services,1521840
+05/01/2020,Number of Paid Jobs - 13 days,Total,2039630
+05/01/2020,Number of Paid Jobs - 27 days,A Primary,104270
+05/01/2020,Number of Paid Jobs - 27 days,B Goods Producing,394680
+05/01/2020,Number of Paid Jobs - 27 days,C Services,1583990
+05/01/2020,Number of Paid Jobs - 27 days,Total,2120980
+12/01/2020,Number of Paid Jobs - 6 days,A Primary,77230
+12/01/2020,Number of Paid Jobs - 6 days,B Goods Producing,334300
+12/01/2020,Number of Paid Jobs - 6 days,C Services,1174660
+12/01/2020,Number of Paid Jobs - 6 days,Total,1616540
+12/01/2020,Number of Paid Jobs - 13 days,A Primary,100700
+12/01/2020,Number of Paid Jobs - 13 days,B Goods Producing,389460
+12/01/2020,Number of Paid Jobs - 13 days,C Services,1484940
+12/01/2020,Number of Paid Jobs - 13 days,Total,2011840
+12/01/2020,Number of Paid Jobs - 27 days,A Primary,107020
+12/01/2020,Number of Paid Jobs - 27 days,B Goods Producing,400070
+12/01/2020,Number of Paid Jobs - 27 days,C Services,1572910
+12/01/2020,Number of Paid Jobs - 27 days,Total,2119150
+19/01/2020,Number of Paid Jobs - 6 days,A Primary,81480
+19/01/2020,Number of Paid Jobs - 6 days,B Goods Producing,365430
+19/01/2020,Number of Paid Jobs - 6 days,C Services,1209250
+19/01/2020,Number of Paid Jobs - 6 days,Total,1688310
+19/01/2020,Number of Paid Jobs - 13 days,A Primary,104010
+19/01/2020,Number of Paid Jobs - 13 days,B Goods Producing,401850
+19/01/2020,Number of Paid Jobs - 13 days,C Services,1536460
+19/01/2020,Number of Paid Jobs - 13 days,Total,2080120
+19/01/2020,Number of Paid Jobs - 27 days,A Primary,109310
+19/01/2020,Number of Paid Jobs - 27 days,B Goods Producing,412410
+19/01/2020,Number of Paid Jobs - 27 days,C Services,1599960
+19/01/2020,Number of Paid Jobs - 27 days,Total,2162320
+26/01/2020,Number of Paid Jobs - 6 days,A Primary,82460
+26/01/2020,Number of Paid Jobs - 6 days,B Goods Producing,359150
+26/01/2020,Number of Paid Jobs - 6 days,C Services,1262170
+26/01/2020,Number of Paid Jobs - 6 days,Total,1735790
+26/01/2020,Number of Paid Jobs - 13 days,A Primary,104010
+26/01/2020,Number of Paid Jobs - 13 days,B Goods Producing,407540
+26/01/2020,Number of Paid Jobs - 13 days,C Services,1554100
+26/01/2020,Number of Paid Jobs - 13 days,Total,2103380
+26/01/2020,Number of Paid Jobs - 27 days,A Primary,109100
+26/01/2020,Number of Paid Jobs - 27 days,B Goods Producing,416170
+26/01/2020,Number of Paid Jobs - 27 days,C Services,1616580
+26/01/2020,Number of Paid Jobs - 27 days,Total,2184850
+02/02/2020,Number of Paid Jobs - 6 days,A Primary,80970
+02/02/2020,Number of Paid Jobs - 6 days,B Goods Producing,364980
+02/02/2020,Number of Paid Jobs - 6 days,C Services,1241960
+02/02/2020,Number of Paid Jobs - 6 days,Total,1722410
+02/02/2020,Number of Paid Jobs - 13 days,A Primary,102430
+02/02/2020,Number of Paid Jobs - 13 days,B Goods Producing,409740
+02/02/2020,Number of Paid Jobs - 13 days,C Services,1584670
+02/02/2020,Number of Paid Jobs - 13 days,Total,2138540
+02/02/2020,Number of Paid Jobs - 27 days,A Primary,107510
+02/02/2020,Number of Paid Jobs - 27 days,B Goods Producing,419080
+02/02/2020,Number of Paid Jobs - 27 days,C Services,1626590
+02/02/2020,Number of Paid Jobs - 27 days,Total,2197140
+09/02/2020,Number of Paid Jobs - 6 days,A Primary,73040
+09/02/2020,Number of Paid Jobs - 6 days,B Goods Producing,331280
+09/02/2020,Number of Paid Jobs - 6 days,C Services,1115220
+09/02/2020,Number of Paid Jobs - 6 days,Total,1550480
+09/02/2020,Number of Paid Jobs - 13 days,A Primary,96130
+09/02/2020,Number of Paid Jobs - 13 days,B Goods Producing,404620
+09/02/2020,Number of Paid Jobs - 13 days,C Services,1455670
+09/02/2020,Number of Paid Jobs - 13 days,Total,1993140
+09/02/2020,Number of Paid Jobs - 27 days,A Primary,102730
+09/02/2020,Number of Paid Jobs - 27 days,B Goods Producing,416840
+09/02/2020,Number of Paid Jobs - 27 days,C Services,1627670
+09/02/2020,Number of Paid Jobs - 27 days,Total,2186250
+16/02/2020,Number of Paid Jobs - 6 days,A Primary,77190
+16/02/2020,Number of Paid Jobs - 6 days,B Goods Producing,368800
+16/02/2020,Number of Paid Jobs - 6 days,C Services,1144530
+16/02/2020,Number of Paid Jobs - 6 days,Total,1612770
+16/02/2020,Number of Paid Jobs - 13 days,A Primary,94740
+16/02/2020,Number of Paid Jobs - 13 days,B Goods Producing,401910
+16/02/2020,Number of Paid Jobs - 13 days,C Services,1532740
+16/02/2020,Number of Paid Jobs - 13 days,Total,2056040
+16/02/2020,Number of Paid Jobs - 27 days,A Primary,100950
+16/02/2020,Number of Paid Jobs - 27 days,B Goods Producing,412520
+16/02/2020,Number of Paid Jobs - 27 days,C Services,1594120
+16/02/2020,Number of Paid Jobs - 27 days,Total,2137410
+23/02/2020,Number of Paid Jobs - 6 days,A Primary,70950
+23/02/2020,Number of Paid Jobs - 6 days,B Goods Producing,331580
+23/02/2020,Number of Paid Jobs - 6 days,C Services,1183920
+23/02/2020,Number of Paid Jobs - 6 days,Total,1607700
+23/02/2020,Number of Paid Jobs - 13 days,A Primary,93970
+23/02/2020,Number of Paid Jobs - 13 days,B Goods Producing,386070
+23/02/2020,Number of Paid Jobs - 13 days,C Services,1499460
+23/02/2020,Number of Paid Jobs - 13 days,Total,2006880
+23/02/2020,Number of Paid Jobs - 27 days,A Primary,98020
+23/02/2020,Number of Paid Jobs - 27 days,B Goods Producing,392850
+23/02/2020,Number of Paid Jobs - 27 days,C Services,1555460
+23/02/2020,Number of Paid Jobs - 27 days,Total,2076410
+01/03/2020,Number of Paid Jobs - 6 days,A Primary,78980
+01/03/2020,Number of Paid Jobs - 6 days,B Goods Producing,372030
+01/03/2020,Number of Paid Jobs - 6 days,C Services,1267330
+01/03/2020,Number of Paid Jobs - 6 days,Total,1737310
+01/03/2020,Number of Paid Jobs - 13 days,A Primary,98910
+01/03/2020,Number of Paid Jobs - 13 days,B Goods Producing,409670
+01/03/2020,Number of Paid Jobs - 13 days,C Services,1598950
+01/03/2020,Number of Paid Jobs - 13 days,Total,2139500
+01/03/2020,Number of Paid Jobs - 27 days,A Primary,103370
+01/03/2020,Number of Paid Jobs - 27 days,B Goods Producing,418510
+01/03/2020,Number of Paid Jobs - 27 days,C Services,1659700
+01/03/2020,Number of Paid Jobs - 27 days,Total,2219710
+08/03/2020,Number of Paid Jobs - 6 days,A Primary,73050
+08/03/2020,Number of Paid Jobs - 6 days,B Goods Producing,331180
+08/03/2020,Number of Paid Jobs - 6 days,C Services,1195020
+08/03/2020,Number of Paid Jobs - 6 days,Total,1626730
+08/03/2020,Number of Paid Jobs - 13 days,A Primary,94900
+08/03/2020,Number of Paid Jobs - 13 days,B Goods Producing,401920
+08/03/2020,Number of Paid Jobs - 13 days,C Services,1560030
+08/03/2020,Number of Paid Jobs - 13 days,Total,2090080
+08/03/2020,Number of Paid Jobs - 27 days,A Primary,101560
+08/03/2020,Number of Paid Jobs - 27 days,B Goods Producing,415690
+08/03/2020,Number of Paid Jobs - 27 days,C Services,1648600
+08/03/2020,Number of Paid Jobs - 27 days,Total,2202400
+15/03/2020,Number of Paid Jobs - 6 days,A Primary,77550
+15/03/2020,Number of Paid Jobs - 6 days,B Goods Producing,362530
+15/03/2020,Number of Paid Jobs - 6 days,C Services,1218010
+15/03/2020,Number of Paid Jobs - 6 days,Total,1679950
+15/03/2020,Number of Paid Jobs - 13 days,A Primary,96280
+15/03/2020,Number of Paid Jobs - 13 days,B Goods Producing,406170
+15/03/2020,Number of Paid Jobs - 13 days,C Services,1563620
+15/03/2020,Number of Paid Jobs - 13 days,Total,2094560
+15/03/2020,Number of Paid Jobs - 27 days,A Primary,102040
+15/03/2020,Number of Paid Jobs - 27 days,B Goods Producing,416520
+15/03/2020,Number of Paid Jobs - 27 days,C Services,1645410
+15/03/2020,Number of Paid Jobs - 27 days,Total,2195650
+22/03/2020,Number of Paid Jobs - 6 days,A Primary,77100
+22/03/2020,Number of Paid Jobs - 6 days,B Goods Producing,357050
+22/03/2020,Number of Paid Jobs - 6 days,C Services,1177310
+22/03/2020,Number of Paid Jobs - 6 days,Total,1651010
+22/03/2020,Number of Paid Jobs - 13 days,A Primary,99180
+22/03/2020,Number of Paid Jobs - 13 days,B Goods Producing,410310
+22/03/2020,Number of Paid Jobs - 13 days,C Services,1600840
+22/03/2020,Number of Paid Jobs - 13 days,Total,2156680
+22/03/2020,Number of Paid Jobs - 27 days,A Primary,102190
+22/03/2020,Number of Paid Jobs - 27 days,B Goods Producing,416810
+22/03/2020,Number of Paid Jobs - 27 days,C Services,1648630
+22/03/2020,Number of Paid Jobs - 27 days,Total,2215910
+29/03/2020,Number of Paid Jobs - 6 days,A Primary,77820
+29/03/2020,Number of Paid Jobs - 6 days,B Goods Producing,369430
+29/03/2020,Number of Paid Jobs - 6 days,C Services,1245010
+29/03/2020,Number of Paid Jobs - 6 days,Total,1737670
+29/03/2020,Number of Paid Jobs - 13 days,A Primary,94510
+29/03/2020,Number of Paid Jobs - 13 days,B Goods Producing,403130
+29/03/2020,Number of Paid Jobs - 13 days,C Services,1528150
+29/03/2020,Number of Paid Jobs - 13 days,Total,2076430
+29/03/2020,Number of Paid Jobs - 27 days,A Primary,101080
+29/03/2020,Number of Paid Jobs - 27 days,B Goods Producing,414920
+29/03/2020,Number of Paid Jobs - 27 days,C Services,1638590
+29/03/2020,Number of Paid Jobs - 27 days,Total,2207880
+05/04/2020,Number of Paid Jobs - 6 days,A Primary,71530
+05/04/2020,Number of Paid Jobs - 6 days,B Goods Producing,334200
+05/04/2020,Number of Paid Jobs - 6 days,C Services,1088400
+05/04/2020,Number of Paid Jobs - 6 days,Total,1528640
+05/04/2020,Number of Paid Jobs - 13 days,A Primary,89580
+05/04/2020,Number of Paid Jobs - 13 days,B Goods Producing,380800
+05/04/2020,Number of Paid Jobs - 13 days,C Services,1473620
+05/04/2020,Number of Paid Jobs - 13 days,Total,1991650
+05/04/2020,Number of Paid Jobs - 27 days,A Primary,99240
+05/04/2020,Number of Paid Jobs - 27 days,B Goods Producing,408170
+05/04/2020,Number of Paid Jobs - 27 days,C Services,1621800
+05/04/2020,Number of Paid Jobs - 27 days,Total,2179730
+12/04/2020,Number of Paid Jobs - 6 days,A Primary,57020
+12/04/2020,Number of Paid Jobs - 6 days,B Goods Producing,268300
+12/04/2020,Number of Paid Jobs - 6 days,C Services,967040
+12/04/2020,Number of Paid Jobs - 6 days,Total,1320630
+12/04/2020,Number of Paid Jobs - 13 days,A Primary,86650
+12/04/2020,Number of Paid Jobs - 13 days,B Goods Producing,365270
+12/04/2020,Number of Paid Jobs - 13 days,C Services,1438720
+12/04/2020,Number of Paid Jobs - 13 days,Total,1925430
+12/04/2020,Number of Paid Jobs - 27 days,A Primary,95010
+12/04/2020,Number of Paid Jobs - 27 days,B Goods Producing,402570
+12/04/2020,Number of Paid Jobs - 27 days,C Services,1591170
+12/04/2020,Number of Paid Jobs - 27 days,Total,2127110
+19/04/2020,Number of Paid Jobs - 6 days,A Primary,68550
+19/04/2020,Number of Paid Jobs - 6 days,B Goods Producing,318640
+19/04/2020,Number of Paid Jobs - 6 days,C Services,1152790
+19/04/2020,Number of Paid Jobs - 6 days,Total,1553580
+19/04/2020,Number of Paid Jobs - 13 days,A Primary,88250
+19/04/2020,Number of Paid Jobs - 13 days,B Goods Producing,379030
+19/04/2020,Number of Paid Jobs - 13 days,C Services,1454090
+19/04/2020,Number of Paid Jobs - 13 days,Total,1940510
+19/04/2020,Number of Paid Jobs - 27 days,A Primary,95080
+19/04/2020,Number of Paid Jobs - 27 days,B Goods Producing,399050
+19/04/2020,Number of Paid Jobs - 27 days,C Services,1569130
+19/04/2020,Number of Paid Jobs - 27 days,Total,2093520
+26/04/2020,Number of Paid Jobs - 6 days,A Primary,70850
+26/04/2020,Number of Paid Jobs - 6 days,B Goods Producing,336030
+26/04/2020,Number of Paid Jobs - 6 days,C Services,1149440
+26/04/2020,Number of Paid Jobs - 6 days,Total,1570900
+26/04/2020,Number of Paid Jobs - 13 days,A Primary,89880
+26/04/2020,Number of Paid Jobs - 13 days,B Goods Producing,379330
+26/04/2020,Number of Paid Jobs - 13 days,C Services,1437840
+26/04/2020,Number of Paid Jobs - 13 days,Total,1935340
+26/04/2020,Number of Paid Jobs - 27 days,A Primary,97400
+26/04/2020,Number of Paid Jobs - 27 days,B Goods Producing,396390
+26/04/2020,Number of Paid Jobs - 27 days,C Services,1575660
+26/04/2020,Number of Paid Jobs - 27 days,Total,2107540
+03/05/2020,Number of Paid Jobs - 6 days,A Primary,69250
+03/05/2020,Number of Paid Jobs - 6 days,B Goods Producing,329040
+03/05/2020,Number of Paid Jobs - 6 days,C Services,1157160
+03/05/2020,Number of Paid Jobs - 6 days,Total,1583650
+03/05/2020,Number of Paid Jobs - 13 days,A Primary,89850
+03/05/2020,Number of Paid Jobs - 13 days,B Goods Producing,379340
+03/05/2020,Number of Paid Jobs - 13 days,C Services,1480300
+03/05/2020,Number of Paid Jobs - 13 days,Total,1983470
+03/05/2020,Number of Paid Jobs - 27 days,A Primary,98660
+03/05/2020,Number of Paid Jobs - 27 days,B Goods Producing,413820
+03/05/2020,Number of Paid Jobs - 27 days,C Services,1635160
+03/05/2020,Number of Paid Jobs - 27 days,Total,2192520
+10/05/2020,Number of Paid Jobs - 6 days,A Primary,65780
+10/05/2020,Number of Paid Jobs - 6 days,B Goods Producing,315840
+10/05/2020,Number of Paid Jobs - 6 days,C Services,1104430
+10/05/2020,Number of Paid Jobs - 6 days,Total,1513030
+10/05/2020,Number of Paid Jobs - 13 days,A Primary,87390
+10/05/2020,Number of Paid Jobs - 13 days,B Goods Producing,376490
+10/05/2020,Number of Paid Jobs - 13 days,C Services,1468160
+10/05/2020,Number of Paid Jobs - 13 days,Total,1970330
+10/05/2020,Number of Paid Jobs - 27 days,A Primary,96520
+10/05/2020,Number of Paid Jobs - 27 days,B Goods Producing,410310
+10/05/2020,Number of Paid Jobs - 27 days,C Services,1623620
+10/05/2020,Number of Paid Jobs - 27 days,Total,2174890
+17/05/2020,Number of Paid Jobs - 6 days,A Primary,69350
+17/05/2020,Number of Paid Jobs - 6 days,B Goods Producing,325580
+17/05/2020,Number of Paid Jobs - 6 days,C Services,1179690
+17/05/2020,Number of Paid Jobs - 6 days,Total,1605960
+17/05/2020,Number of Paid Jobs - 13 days,A Primary,91590
+17/05/2020,Number of Paid Jobs - 13 days,B Goods Producing,400710
+17/05/2020,Number of Paid Jobs - 13 days,C Services,1559600
+17/05/2020,Number of Paid Jobs - 13 days,Total,2101970
+17/05/2020,Number of Paid Jobs - 27 days,A Primary,97110
+17/05/2020,Number of Paid Jobs - 27 days,B Goods Producing,412240
+17/05/2020,Number of Paid Jobs - 27 days,C Services,1626640
+17/05/2020,Number of Paid Jobs - 27 days,Total,2189500
+24/05/2020,Number of Paid Jobs - 6 days,A Primary,72640
+24/05/2020,Number of Paid Jobs - 6 days,B Goods Producing,364800
+24/05/2020,Number of Paid Jobs - 6 days,C Services,1252790
+24/05/2020,Number of Paid Jobs - 6 days,Total,1740690
+24/05/2020,Number of Paid Jobs - 13 days,A Primary,92960
+24/05/2020,Number of Paid Jobs - 13 days,B Goods Producing,405640
+24/05/2020,Number of Paid Jobs - 13 days,C Services,1596340
+24/05/2020,Number of Paid Jobs - 13 days,Total,2152470
+24/05/2020,Number of Paid Jobs - 27 days,A Primary,97980
+24/05/2020,Number of Paid Jobs - 27 days,B Goods Producing,412930
+24/05/2020,Number of Paid Jobs - 27 days,C Services,1636540
+24/05/2020,Number of Paid Jobs - 27 days,Total,2208160
+31/05/2020,Number of Paid Jobs - 6 days,A Primary,72920
+31/05/2020,Number of Paid Jobs - 6 days,B Goods Producing,358120
+31/05/2020,Number of Paid Jobs - 6 days,C Services,1307950
+31/05/2020,Number of Paid Jobs - 6 days,Total,1791040
+31/05/2020,Number of Paid Jobs - 13 days,A Primary,92800
+31/05/2020,Number of Paid Jobs - 13 days,B Goods Producing,403730
+31/05/2020,Number of Paid Jobs - 13 days,C Services,1588410
+31/05/2020,Number of Paid Jobs - 13 days,Total,2144070
+31/05/2020,Number of Paid Jobs - 27 days,A Primary,98780
+31/05/2020,Number of Paid Jobs - 27 days,B Goods Producing,415440
+31/05/2020,Number of Paid Jobs - 27 days,C Services,1641720
+31/05/2020,Number of Paid Jobs - 27 days,Total,2207950
+07/06/2020,Number of Paid Jobs - 6 days,A Primary,66910
+07/06/2020,Number of Paid Jobs - 6 days,B Goods Producing,324400
+07/06/2020,Number of Paid Jobs - 6 days,C Services,1162590
+07/06/2020,Number of Paid Jobs - 6 days,Total,1604130
+07/06/2020,Number of Paid Jobs - 13 days,A Primary,88000
+07/06/2020,Number of Paid Jobs - 13 days,B Goods Producing,395030
+07/06/2020,Number of Paid Jobs - 13 days,C Services,1543700
+07/06/2020,Number of Paid Jobs - 13 days,Total,2084530
+07/06/2020,Number of Paid Jobs - 27 days,A Primary,96890
+07/06/2020,Number of Paid Jobs - 27 days,B Goods Producing,412320
+07/06/2020,Number of Paid Jobs - 27 days,C Services,1635500
+07/06/2020,Number of Paid Jobs - 27 days,Total,2197170
+14/06/2020,Number of Paid Jobs - 6 days,A Primary,68240
+14/06/2020,Number of Paid Jobs - 6 days,B Goods Producing,350460
+14/06/2020,Number of Paid Jobs - 6 days,C Services,1167680
+14/06/2020,Number of Paid Jobs - 6 days,Total,1638080
+14/06/2020,Number of Paid Jobs - 13 days,A Primary,89810
+14/06/2020,Number of Paid Jobs - 13 days,B Goods Producing,401620
+14/06/2020,Number of Paid Jobs - 13 days,C Services,1577890
+14/06/2020,Number of Paid Jobs - 13 days,Total,2119590
+21/06/2020,Number of Paid Jobs - 6 days,A Primary,70760
+21/06/2020,Number of Paid Jobs - 6 days,B Goods Producing,360930
+21/06/2020,Number of Paid Jobs - 6 days,C Services,1261380
+21/06/2020,Number of Paid Jobs - 6 days,Total,1738270
+21/06/2020,Number of Paid Jobs - 13 days,A Primary,91610
+21/06/2020,Number of Paid Jobs - 13 days,B Goods Producing,403760
+21/06/2020,Number of Paid Jobs - 13 days,C Services,1598980
+21/06/2020,Number of Paid Jobs - 13 days,Total,2146320
+28/06/2020,Number of Paid Jobs - 6 days,A Primary,71780
+28/06/2020,Number of Paid Jobs - 6 days,B Goods Producing,356120
+28/06/2020,Number of Paid Jobs - 6 days,C Services,1295970
+28/06/2020,Number of Paid Jobs - 6 days,Total,1770890
