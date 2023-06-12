@@ -78,7 +78,7 @@ namespace Harmonogram_Wyzarzanie
         void Random_order_of_tasks()
         {
             order_of_jobs.Clear();
-            foreach (Job job in jobs) order_of_jobs.Add(job.Id);
+            foreach (Job job in jobs) order_of_jobs.Add(jobs.FindIndex(a => a.Equals(job)));
             order_of_jobs.Shuffle();
         }
     }
