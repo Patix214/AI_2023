@@ -193,7 +193,7 @@ namespace Harmonogram_Wyzarzanie
         }
 
         // klonowanie zadan do nowej listy (listy zadan do opracowania harmonogramu)
-        static List<Job> Cloning_jobs(List<Job> tasks)
+        public static List<Job> Cloning_jobs(List<Job> tasks)
         {
             List<Job> list = new();
 

@@ -24,7 +24,7 @@ namespace Harmonogram_Wyzarzanie
         //konstruktor planisty
         public Scheduler(List<Job> jobs, int numProcessors, double temperature, double coolingRate)
         {
-            this.jobs = jobs;
+            this.jobs = Schedule.Cloning_jobs(jobs);
             this.jobs.Shuffle();
             this.num_processors = numProcessors;
             this.temperature = temperature;

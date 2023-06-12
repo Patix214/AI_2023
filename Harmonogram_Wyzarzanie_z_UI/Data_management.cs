@@ -17,13 +17,8 @@ namespace Harmonogram_Wyzarzanie
 
         // zmienne do algorytmu symulowanego wyzarzania
         public static List<Job> jobs = new();
-        // temperatura
-        //int temperature = 100;
-        static int temperature = 0;
 
-        // tempo schladzania
-        //double cooling_rate = 0.999;
-        static double cooling_rate = 0;
+        public static bool not_empty_data = jobs.Count > 0 ? true : false;
 
         // Harmonogram, konstruktor (zadania, liczba dostępnych procesorów)
         // Scheduler scheduler = new(jobs, num_processors, temperature, cooling_rate);
@@ -32,7 +27,7 @@ namespace Harmonogram_Wyzarzanie
         // scheduler.ScheduleTasks();
 
 
-        public static void Create_data_screen()
+        public static void Create_data()
         {
             Console.Clear();
             bool is_ok = false;
@@ -172,7 +167,8 @@ namespace Harmonogram_Wyzarzanie
 
         public static void Save_data_to_file()
         {
-            Console.Write("\nPodaj nazwe pliku z rozszerzeniem: ");
+            Console.WriteLine("Procedura zapisu do pliku ");
+            Console.WriteLine("Podaj nazwe pliku z rozszerzeniem: ");
             string filePath = Console.ReadLine();
 
             // Zapis danych do pliku
@@ -250,11 +246,17 @@ namespace Harmonogram_Wyzarzanie
             }
         }
 
-        public static void Create_schedule(double temperature, double cooling_rate)
+        public static void Create_scheduler(double temperature, double cooling_rate)
         {
             Console.Clear();
             Scheduler scheduler = new(jobs, num_processors, temperature, cooling_rate);
             scheduler.ScheduleTasks();
+        }
+
+        public static void Clear()
+        {
+            num_processors = 0;
+            jobs.Clear();
         }
     }
 }
