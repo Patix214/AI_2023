@@ -127,7 +127,7 @@ namespace Harmonogram_Genetyczny
 
             foreach (Schedule schedule in population)
             {
-                if (random.NextDouble() < 0.4)
+                if (random.NextDouble() < 0.1)
                 {
                     schedule.Mutate();
                 }
